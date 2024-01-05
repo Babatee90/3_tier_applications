@@ -3,3 +3,4 @@
  outputs.tf
  #Ignore Terraform State file
   terraform.tfstate
+  terraform.tfstate.backup
