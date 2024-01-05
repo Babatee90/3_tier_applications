@@ -1,2 +1,3 @@
 #Ignore Terraform file
  Tee.tf
+ outputs.tf
