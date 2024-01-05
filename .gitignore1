@@ -1,3 +1,5 @@
 #Ignore Terraform file
  Tee.tf
  outputs.tf
+ #Ignore Terraform State file
+  terraform.tfstate
